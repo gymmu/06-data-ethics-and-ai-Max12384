@@ -55,7 +55,7 @@ zusätzlich noch diese Erweiterung. Drücken Sie einfach `CTRL + P` und geben Si
 den folgenden Befehl ein:
 
 ```text
-ext install James-Yu.latex-workshop
+ü
 ```
 
 Sie finden dann im Ordner `documents` mehrere Unterordner mit verschiedenen
