@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/KKdhufHW)
 # Paper über Data-Ethics
 
 In diesem Projekt verfassen wir ein Dokument über die ethischen
@@ -54,7 +55,7 @@ zusätzlich noch diese Erweiterung. Drücken Sie einfach `CTRL + P` und geben Si
 den folgenden Befehl ein:
 
 ```text
-ext install James-Yu.latex-workshop
+ü
 ```
 
 Sie finden dann im Ordner `documents` mehrere Unterordner mit verschiedenen
